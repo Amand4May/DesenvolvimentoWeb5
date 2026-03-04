@@ -1,124 +1,33 @@
-# Aula 01 - Introdução ao Desenvolvimento Web
+Na Aula 01 de Desenvolvimento Web, o professor apresentou a estrutura da disciplina e explicou como o semestre será organizado. Foram discutidos o plano de ensino, a metodologia, os critérios de avaliação e as atividades práticas que precisaremos desenvolver ao longo do curso.
 
- - Apresentação da Disciplina
+A disciplina tem como principal objetivo fazer com que a gente compreenda os fundamentos do desenvolvimento web e consiga aplicar, na prática, conceitos de:
 
-- Plano de ensino
-- Conteúdo programático
-- Metodologia
-- Critérios de avaliação
-- Primeira atividade prática
+- HTML e CSS
 
----
+- JavaScript
 
- - Objetivos da Disciplina
+- Versionamento com Git
 
-- Compreender fundamentos do desenvolvimento web
-- Aplicar conceitos de HTML, CSS e JavaScript
-- Entender versionamento e deploy
-- Desenvolver um projeto completo em grupo
-- Criar portfólio na área
+- Deploy de aplicações
 
----
+Também foi apresentado o conteúdo programático, que começa pelos fundamentos da web e evolui para temas mais avançados. Entre os tópicos que serão estudados estão:
 
- - Conteúdo Programático
+- Estruturação de páginas com HTML
 
- • Fundamentos Web
-- Introdução a HTML
-- Introdução a CSS
-- Layouts e seletores
-- Ferramentas de desenvolvimento
+- Estilização com CSS e criação de layouts
 
- • Arquitetura e UX
-- Definição de escopo
-- Prototipação
-- Validação de ideias
-- Iteração e usabilidade
+- Manipulação do DOM com JavaScript
 
- • Versionamento e Deploy
-- Controle de versão
-- Branches
-- GitHub, GitLab e Bitbucket
-- CI/CD
-- Deploy e ambientes de desenvolvimento
+- Experiência do usuário (UX) e prototipação
 
- • JavaScript (Vanilla JS)
-- Linguagem interpretada
-- Manipulação do DOM
-- Comunicação com servidores
-- Lógica de interface
+- Controle de versão e uso do GitHub
 
- • Frameworks Front-end
-- React
-- Vue
-- Angular
-- Componentização
-- Estado e rotas
+- Frameworks front-end e conceitos de back-end
 
- • Frameworks Back-end
-- Arquitetura MVC
-- APIs REST
-- Integração com banco de dados
-- Autenticação
+- APIs, banco de dados NoSQL e arquitetura MVC
 
- • Banco de Dados NoSQL
-- Modelo não relacional
-- Schemas dinâmicos
-- Escalabilidade horizontal
+Além disso, teremos um projeto em grupo que será desenvolvido ao longo do semestre. O projeto envolverá a criação de um repositório no GitHub, documentação em arquivo .md, análise de sites para identificar tecnologias utilizadas e organização das ideias de forma visual. Essa atividade será importante para aplicar os conhecimentos aprendidos em aula de forma prática e colaborativa.
 
- • CMS e Website Builders
- - Vantagens:
-- Facilidade de uso
-- Rapidez
-- Templates prontos
+Por fim, o professor destacou a importância de construir um portfólio, não apenas para a disciplina, mas também para o mercado de trabalho, já que ele demonstra nossas habilidades técnicas e pode aumentar as oportunidades de estágio e emprego.
 
- • Limitações:
-- Flexibilidade limitada
-- Possível perda de performance
-- Dificuldade de migração
-
----
-
- - Atividades Práticas (APS)
-
-- Concluir exercícios de HTML e CSS
-- Elaborar relatório em PDF ou Word
-- Incluir prints e links dos projetos
-- Enviar via Canvas
-
----
-
- - Projeto em Grupo
-
-- Grupos de 3 a 5 integrantes
-- Criar repositório no GitHub
-- Desenvolver projeto ao longo do semestre
-- Criar arquivo `.md` com resumo da aula
-- Analisar 3 sites e identificar tecnologias utilizadas
-- Criar representação visual no Miro
-
----
-
- - Critérios de Avaliação
-
-- AC1 – 15% (Prova teórica)
-- AC2 – 30% (Entrega e apresentação do projeto)
-- Avaliação Geral - AG – 10%
-- Avaliação Final – 45% (Documentação estilo mini-TCC)
-
----
-
- - Importância do Portfólio
-
-- Demonstrar habilidades práticas
-- Comprovar conhecimento técnico
-- Aumentar oportunidades de estágio e emprego
-- Desenvolver organização e visão profissional
-
----
-
- - Conclusão
-
-- Estrutura da disciplina
-- Conteúdo do semestre
-- Forma de avaliação
-- Primeira atividade prática
+De modo geral, a primeira aula serviu para apresentar a proposta da disciplina e deixar claro que o foco será tanto teórico quanto prático, com bastante ênfase no desenvolvimento real de projetos.
